@@ -1,0 +1,5 @@
+{
+  "name": "Game Score Extractor",
+  "description": "Analyzes game screenshots to extract Account, Time, and Score, sorting them chronologically for export to Google Sheets.",
+  "requestFramePermissions": []
+}
